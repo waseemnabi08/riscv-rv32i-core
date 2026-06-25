@@ -68,7 +68,7 @@ Visual representations of each architectural implementation are provided below:
 
 | Single-Cycle | Multicycle | Pipelined |
 | --- | --- | --- |
-| ![Single-Cycle Datapath](SingleCycle.png) | ![Multicycle Datapath](Multicycle.png) | ![Pipelined Datapath](Pipelined.png) |
+| ![Single-Cycle Datapath](SingleCycle.png) | ![Multicycle Datapath](MultiCycle.png) | ![Pipelined Datapath](Pipelined.png) |
 
 ## Implementation Architectures
 
